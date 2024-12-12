@@ -1,0 +1,10 @@
+C:\Users\Beyza\source\repos\fitness2\bin\Debug\fitness2.exe.config
+C:\Users\Beyza\source\repos\fitness2\bin\Debug\fitness2.exe
+C:\Users\Beyza\source\repos\fitness2\bin\Debug\fitness2.pdb
+C:\Users\Beyza\source\repos\fitness2\obj\Debug\fitness2.csproj.AssemblyReference.cache
+C:\Users\Beyza\source\repos\fitness2\obj\Debug\fitness2.Form1.resources
+C:\Users\Beyza\source\repos\fitness2\obj\Debug\fitness2.Properties.Resources.resources
+C:\Users\Beyza\source\repos\fitness2\obj\Debug\fitness2.csproj.GenerateResource.cache
+C:\Users\Beyza\source\repos\fitness2\obj\Debug\fitness2.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\source\repos\fitness2\obj\Debug\fitness2.exe
+C:\Users\Beyza\source\repos\fitness2\obj\Debug\fitness2.pdb
